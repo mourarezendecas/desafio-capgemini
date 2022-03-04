@@ -1,4 +1,3 @@
-package entrevista.capgemini;
 import java.util.Scanner;
 
 public class q02 {
